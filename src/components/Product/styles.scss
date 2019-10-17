@@ -1,0 +1,111 @@
+a {
+  text-decoration: none;
+  color: initial;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+
+  position: relative;
+  min-width: 220px;
+  max-width: 220px;
+  margin: 10px;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0.5px 0.5px 4px rgba(#000, 0.2);
+  cursor: pointer;
+  transition: all 0.15s;
+
+  &:hover {
+    box-shadow: 0 5px 10px rgba(#000, 0.2);
+    margin-top: 5px;
+  }
+
+  img {
+    width: inherit;
+    height: 230px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    background: #eee;
+    object-fit: cover;
+  }
+
+  p {
+    position: absolute;
+    margin: 0;
+    padding: 2px 5px;
+    border-radius: 5px;
+    font-size: 8px;
+    text-transform: uppercase;
+    box-shadow: 1px 1px 3px rgba(#000, 0.2);
+    font-weight: bold;
+    color: #fff;
+    top: 220px;
+    right: 5px;
+  }
+
+  section {
+    display: flex;
+    flex-direction: column;
+
+    width: 220px;
+    padding: 8px;
+
+    small {
+      font-size: 11px;
+      font-weight: 500;
+      text-decoration: line-through;
+      height: 10px;
+      opacity: 0.3;
+    }
+
+    div {
+      display: flex;
+      flex-direction: column;
+
+      strong {
+        font-weight: 500;
+        font-size: 22px;
+      }
+
+      small {
+        font-size: 10px;
+        font-weight: 500;
+        text-decoration: none;
+        opacity: 1;
+        margin-top: -5px;
+      }
+    }
+
+    .inOffer {
+      color: rgb(8, 214, 25);
+    }
+
+    .withoutConditions {
+      strong {
+        font-size: 27px;
+      }
+
+      small {
+        height: 3px;
+      }
+    }
+
+    span {
+      margin-top: 5px;
+      opacity: 0.8;
+      color: #222;
+      font-weight: 500;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+  }
+}
+
+.big {
+  min-width: 260px;
+  max-width: 260px;
+  margin: 10px 0;
+}

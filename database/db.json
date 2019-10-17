@@ -1,0 +1,672 @@
+{
+  "cart": [
+    {
+      "id": 10,
+      "title": "Corretivo para área dos Olhos Maybelline",
+      "price": "R$ 63,92",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353061-1000-1000/Golden.jpg?v=637027618396170000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353061-1000-1000/Golden.jpg?v=637027618396170000"
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353062-1000-1000/Golden-2.jpg?v=637027618495330000"
+        },
+        {
+          "id": 3,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353064-1000-1000/Golden-5.jpg?v=637027618865730000"
+        },
+        {
+          "id": 4,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353065-1000-1000/Golden-6.jpg?v=637027619906770000"
+        }
+      ],
+      "platform": 1,
+      "sold": 16,
+      "stock": 5,
+      "shortDescription": "O Instant Age Rewind Rewind Eraser é conhecido internacionalmente pela sua alta cobertura e toque seco! Seu aplicador inovador apaga olheiras, inchaço e linhas finas INSTANTÂNEAMENTE, além de facilitar muito a aplicação do produto. Por ter acabamento natural e super fixação, você não vai sentir necessidade de finalizar com pó. Super prático pro dia-a-dia! Sabe do melhor?? Sua fórmula ativa com Haloxyl reduz a aparência de inchaço deixando o olhar radiante e revigorado! Além disso ainda possui ativos que auxiliam a tardar o envelhecimento da pele ao redor dos olhos."
+    },
+    {
+      "id": 13,
+      "title": "Base Fluida Vult",
+      "price": "R$ 26,00",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332531-1000-1000/base-fluida-vult.jpg?v=636910423619400000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332531-1000-1000/base-fluida-vult.jpg?v=636910423619400000"
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332532-1000-1000/base-fluida-vult1.jpg?v=636910423719770000"
+        },
+        {
+          "id": 3,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332533-1000-1000/base-fluida-vult2.jpg?v=636910423821030000"
+        },
+        {
+          "id": 4,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332534-1000-1000/base-fluida-vult3.jpg?v=636910424148800000"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Fórmula ultrafluida que em contato com a pele oferece uma incrível sensação de leveza e toque aveludado. A da Base Fluida da Vult proporciona um acabamento natural, cobertura leve, uniforme e efeito matte. Contém microesferas que proporcionam o disfarce óptico de linhas finas da pele. Enriquecida com um complexo de extratos naturais, auxilia na prevenção do envelhecimento e na hidratação da pele. Sua embalagem com aplicador em conta-gotas oferece praticidade e precisão, sem desperdícios.",
+      "sold": 38,
+      "stock": 8
+    },
+    {
+      "id": 1,
+      "title": "Kaiak Natura - Masculino",
+      "price": "R$ 121,90",
+      "thumb": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_1.jpg?itok=fdC-QoCq",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_1.jpg?itok=fdC-QoCq",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_2.jpg?itok=a59Rx-0l"
+        },
+        {
+          "id": 3,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_3.jpg?itok=cmlKs4Jd"
+        },
+        {
+          "id": 4,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_4.jpg?itok=JSf34EiS",
+          "selected": true
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "Em um mundo pós apocalíptico, onde pouca bondade é vista por parte da humanidade, Deacon tenta sobreviver em meio das lembranças de seu passado e de sua noiva.",
+      "sold": 138,
+      "stock": 372
+    },
+    {
+      "id": 4,
+      "title": "Ilía Natura - Feminino",
+      "price": "R$ 129,90",
+      "thumb": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/54522_1.jpg?itok=cRg0GvCV",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/54522_1.jpg?itok=cRg0GvCV",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://static.natura.com/cdn/farfuture/cJW3XG-qrD92VyDq59yeerwDN25LuaqZSMPevLL2SoY/1569001907/sites/default/files/styles/product_detail_square/public/products/54522_2.jpg?itok=q0tJXMkS",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "url": "https://static.natura.com/cdn/farfuture/m-1uXC1qQZEXSrqZTPiPGgNzXstz7wDYldLe5rjpZ_g/1569002028/sites/default/files/styles/product_detail_square/public/products/54522_3.jpg?itok=tCkfZM3b",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "url": "https://static.natura.com/cdn/farfuture/iKxBOxDUR1kbOyaLoDpfF9jiHSnMzRYHBhq57NZuDsQ/1569001907/sites/default/files/styles/product_detail_square/public/products/54522_4.jpg?itok=eOr4jJNv",
+          "selected": false
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Cinco anos após os acontecimentos de DMC 4, Nero monta sua própria agência de caça a demônios baseada em uma van adornada com um letreiro em neon de \"Devil May Cry\" que Dante deu a ele com apoio de Kyrie e sua engenheira, Nico.",
+      "sold": 119,
+      "stock": 4
+    },
+    {
+      "id": 8,
+      "title": "Wanted Girl Azzaro - Perfume Feminino",
+      "price": "R$ 278,90",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348134-1000-1000/3791.jpg?v=637001965252630000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348134-1000-1000/3791.jpg?v=637001965252630000",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348135-1000-1000/3791-2.jpg?v=637001965438070000"
+        },
+        {
+          "id": 3,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348136-1000-1000/3791-3.jpg?v=637001965531470000"
+        },
+        {
+          "id": 4,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348138-1000-1000/3791-5.jpg?v=637001965757870000"
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "Azzaro elabourou Wanted Girl Eau de Parfum como uma ode a beleza indomável, tingida de brio e transbordando de charme. Wanted Girl acredita em seu destino. Ela ousa, ela tem um gosto pelo risco, mas ela os asume para garantir o sucesso. Por amor ao jogo, por amor à vida. Ela tem estilo e sabe que não se trata de timing, mas de personalidade. Ela é inspirada e inspiradora. Sua liberdade, sua energia, seu carisma, sua ultra feminilidade, seu glamour e sua criatividade. Sua capacidade de aproveitar ao máximo cada dia e unir uma tribo cosmopolita em torno dela... a torna fascinante e irresistível.",
+      "sold": 98,
+      "stock": 86
+    },
+    {
+      "id": 2,
+      "title": "Hugo Boss - Perfume Masculino",
+      "price": "R$ 269,00",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/335701-1000-1000/hugo-edt-hugo-boss-40ml.jpg?v=636930253507400000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/335701-1000-1000/hugo-edt-hugo-boss-40ml.jpg?v=636930253507400000",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/335702-1000-1000/hugo-edt-hugo-boss-40ml-2.jpg?v=636930253624500000"
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "O perfume masculino Hugo Hugo Boss é um amadeirado aromático para homens inovadores, individualistas que rompem as regras pré-estabelecidas. Criativos, jovens e autênticos, estão sempre antenados com tudo ao seu redor. Irreverentes, eles fazem aquilo que querem. As notas do perfume masculino Hugo Hugo Boss combinam frutas cítricas, maçã verde, pinho, hortelã, bergamota e folhas de cedro; madeiras nobres, folhas de gerânio, jasmim e lavanda de pinheiro; broto de cravo, sálvia e mel; musgo, âmbar, bálsamo, vetiver, rum e couro. Os perfumes da grife alemã Hugo Boss são despojados e modernos, é um complemento dessa marca de moda tão famosa. São três linhas de perfume, atualmente, cada uma para as diferentes etapas da vida do homem. Desde a juventude até ao alcance da maturidade. Existem fragrâncias para todos os tipos de homem. Fragrâncias para o homem seguro, singular, que gosta de moda e muito sensual.",
+      "sold": 341,
+      "stock": 0
+    },
+    {
+      "id": 3,
+      "title": "Pó Compacto Vult",
+      "price": "R$ 19,67",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/207798-1000-1000/po-compacto-mosaico-vult-po-compacto-05.jpg?v=636003959135430000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/207798-1000-1000/po-compacto-mosaico-vult-po-compacto-05.jpg?v=636003959135430000",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/207799-1000-1000/034453-VULT.jpg?v=636003959254830000",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/207800-1000-1000/034453-VULT2.jpg?v=636003959375600000",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/246668-1000-1000/192.jpg?v=636474760143630000",
+          "selected": false
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Ideal pra finalizar a make e selar a pele. Promove um acabamento perfeito e aveludado, removendo todo brilho causado pela oleosidade excessiva.Sua fórmula conta com pigmentos minerais micronizados que proporcionam um efeito muito mais natural e bonito, além de ser enriquecida com Vitamina E, que é uma vitamina super importante no cuidado da pele. Sua embalagem exclusiva possui duplo compartimento para a guarda de esponja que oferece espelho embutido para retoques. ",
+      "sold": 219,
+      "stock": 1
+    },
+    {
+      "id": 5,
+      "title": "Batom Líquido Maybelline",
+      "price": "R$ 67,07",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/319224-1000-1000/dreamer3.jpg?v=636839502750330000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/319224-1000-1000/dreamer3.jpg?v=636839502750330000",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/339771-1000-1000/6901-1.jpg?v=636955311496830000"
+        },
+        {
+          "id": 3,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/339772-1000-1000/6901-9.jpg?v=636955311639630000"
+        },
+        {
+          "id": 4,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/339773-1000-1000/6901.jpg?v=636955311841230000"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Todas querem um batom que dure muito tempo, um batom matte que não craquele e um batom que não saia ao comer ou beber. Agora você tem tudo isso em um só batom o Superstay Matte Ink de Maybelline. Superstay Matte Ink possui fórmula com duração de 16 horas, sem borrar e sem retoques! Possui pincel para uma aplicação facilitada. São 20 cores para todos os gostos, para montar diversas makes ao seu estilo!",
+      "sold": 117,
+      "stock": 0
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Kaiak Natura - Masculino",
+      "price": "R$ 121,90",
+      "thumb": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_1.jpg?itok=fdC-QoCq",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_1.jpg?itok=fdC-QoCq",
+          "selected": false
+        },
+        {
+          "id": 2,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_2.jpg?itok=a59Rx-0l",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_3.jpg?itok=cmlKs4Jd",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_4_0.jpg?itok=QdJDytv3",
+          "selected": true
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "Kaiak vibra pelo frescor dos cítricos e gálbano, pulsa pela energia aquosa do coração desta fragrância e flui através das madeiras transparentes e musc, se inspirando na energia que emana da sua força.",
+      "sold": 510,
+      "stock": 0
+    },
+    {
+      "id": 2,
+      "title": "Hugo Boss - Perfume Masculino",
+      "price": "R$ 269,00",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/335701-1000-1000/hugo-edt-hugo-boss-40ml.jpg?v=636930253507400000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/335701-1000-1000/hugo-edt-hugo-boss-40ml.jpg?v=636930253507400000",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/335702-1000-1000/hugo-edt-hugo-boss-40ml-2.jpg?v=636930253624500000"
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "O perfume masculino Hugo Hugo Boss é um amadeirado aromático para homens inovadores, individualistas que rompem as regras pré-estabelecidas. Criativos, jovens e autênticos, estão sempre antenados com tudo ao seu redor. Irreverentes, eles fazem aquilo que querem. As notas do perfume masculino Hugo Hugo Boss combinam frutas cítricas, maçã verde, pinho, hortelã, bergamota e folhas de cedro; madeiras nobres, folhas de gerânio, jasmim e lavanda de pinheiro; broto de cravo, sálvia e mel; musgo, âmbar, bálsamo, vetiver, rum e couro. Os perfumes da grife alemã Hugo Boss são despojados e modernos, é um complemento dessa marca de moda tão famosa. São três linhas de perfume, atualmente, cada uma para as diferentes etapas da vida do homem. Desde a juventude até ao alcance da maturidade. Existem fragrâncias para todos os tipos de homem. Fragrâncias para o homem seguro, singular, que gosta de moda e muito sensual.",
+      "sold": 341,
+      "stock": 0
+    },
+    {
+      "id": 3,
+      "title": "Pó Compacto Vult",
+      "price": "R$ 19,67",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/207798-1000-1000/po-compacto-mosaico-vult-po-compacto-05.jpg?v=636003959135430000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/207798-1000-1000/po-compacto-mosaico-vult-po-compacto-05.jpg?v=636003959135430000",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/207799-1000-1000/034453-VULT.jpg?v=636003959254830000",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/207800-1000-1000/034453-VULT2.jpg?v=636003959375600000",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/246668-1000-1000/192.jpg?v=636474760143630000",
+          "selected": false
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Ideal pra finalizar a make e selar a pele. Promove um acabamento perfeito e aveludado, removendo todo brilho causado pela oleosidade excessiva.Sua fórmula conta com pigmentos minerais micronizados que proporcionam um efeito muito mais natural e bonito, além de ser enriquecida com Vitamina E, que é uma vitamina super importante no cuidado da pele. Sua embalagem exclusiva possui duplo compartimento para a guarda de esponja que oferece espelho embutido para retoques. ",
+      "sold": 219,
+      "stock": 1
+    },
+    {
+      "id": 4,
+      "title": "Ilía Natura - Feminino",
+      "price": "R$ 129,90",
+      "thumb": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/54522_1.jpg?itok=cRg0GvCV",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://static.natura.com/cdn/farfuture/KnihyH76MWbiPdMqLPgPZGQMHMgwwwKpVygF9p6WiRA/1569001907/sites/default/files/styles/product_detail_square/public/products/54522_1.jpg?itok=cRg0GvCV",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/54522_2.jpg?itok=q0tJXMkS",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/54522_3.jpg?itok=tCkfZM3b",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "url": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/54522_4.jpg?itok=eOr4jJNv",
+          "selected": false
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "O Deo Parfum Ilía possui uma delicada fragrância. Floral, é iluminada pelo doce frescor de frutas vermelhas com pomelo rosa. Ideal para quem busca sofisticação. Ao mesmo tempo em que seu sorriso suave encanta, seu olhar intenso impressiona. Mesmo quando demonstra sua graciosidade, mantém sua postura firme. Ser mulher para você é seguir seus sentidos e nem por isso deixar a razão de lado, é saber se lançar sobre as oportunidades sem se esquecer de ter os pés no chão, é ser firme mesmo em sua doçura. Ilía se inspira na força e delicadeza da mulher, e traduz a partir de formas e fragrâncias os contrastes das suas dualidades, capturando a intensidade e o magnetismo da feminilidade num buquê floral branco e o complexo adocicado, contrastados com a delicadeza e sensibilidade das notas frescas frutadas. Seu frasco traz uma fusão infinita de linhas retas e curvas. A forma e volume retratam a solidez de seus valores bem definidos, junto da transparência e leveza de ser mulher. Sua fragrância reflete a dualidade da mulher atual, com a força do Patchoulli e a doçura da Vanilla.",
+      "sold": 123,
+      "stock": 0
+    },
+    {
+      "id": 5,
+      "title": "Batom Líquido Maybelline",
+      "price": "R$ 67,07",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/319224-1000-1000/dreamer3.jpg?v=636839502750330000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/319224-1000-1000/dreamer3.jpg?v=636839502750330000",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/339771-1000-1000/6901-1.jpg?v=636955311496830000"
+        },
+        {
+          "id": 3,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/339772-1000-1000/6901-9.jpg?v=636955311639630000"
+        },
+        {
+          "id": 4,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/339773-1000-1000/6901.jpg?v=636955311841230000"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Todas querem um batom que dure muito tempo, um batom matte que não craquele e um batom que não saia ao comer ou beber. Agora você tem tudo isso em um só batom o Superstay Matte Ink de Maybelline. Superstay Matte Ink possui fórmula com duração de 16 horas, sem borrar e sem retoques! Possui pincel para uma aplicação facilitada. São 20 cores para todos os gostos, para montar diversas makes ao seu estilo!",
+      "sold": 117,
+      "stock": 0
+    },
+    {
+      "id": 8,
+      "title": "Wanted Girl Azzaro - Perfume Feminino",
+      "price": "R$ 278,90",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348134-1000-1000/3791.jpg?v=637001965252630000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348134-1000-1000/3791.jpg?v=637001965252630000",
+          "selected": false
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348135-1000-1000/3791-2.jpg?v=637001965438070000",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348136-1000-1000/3791-3.jpg?v=637001965531470000",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348138-1000-1000/3791-5.jpg?v=637001965757870000",
+          "selected": true
+        }
+      ],
+      "platform": 2,
+      "shortDescription": "Azzaro elabourou Wanted Girl Eau de Parfum como uma ode a beleza indomável, tingida de brio e transbordando de charme. Wanted Girl acredita em seu destino. Ela ousa, ela tem um gosto pelo risco, mas ela os asume para garantir o sucesso. Por amor ao jogo, por amor à vida. Ela tem estilo e sabe que não se trata de timing, mas de personalidade. Ela é inspirada e inspiradora. Sua liberdade, sua energia, seu carisma, sua ultra feminilidade, seu glamour e sua criatividade. Sua capacidade de aproveitar ao máximo cada dia e unir uma tribo cosmopolita em torno dela... a torna fascinante e irresistível.",
+      "sold": 184,
+      "stock": 0
+    },
+    {
+      "id": 10,
+      "title": "Corretivo para área dos Olhos Maybelline",
+      "price": "R$ 63,92",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353061-1000-1000/Golden.jpg?v=637027618396170000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353061-1000-1000/Golden.jpg?v=637027618396170000",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353062-1000-1000/Golden-2.jpg?v=637027618495330000"
+        },
+        {
+          "id": 3,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353064-1000-1000/Golden-5.jpg?v=637027618865730000"
+        },
+        {
+          "id": 4,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353065-1000-1000/Golden-6.jpg?v=637027619906770000"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "O Instant Age Rewind Rewind Eraser é conhecido internacionalmente pela sua alta cobertura e toque seco! Seu aplicador inovador apaga olheiras, inchaço e linhas finas INSTANTÂNEAMENTE, além de facilitar muito a aplicação do produto. Por ter acabamento natural e super fixação, você não vai sentir necessidade de finalizar com pó. Super prático pro dia-a-dia! Sabe do melhor?? Sua fórmula ativa com Haloxyl reduz a aparência de inchaço deixando o olhar radiante e revigorado! Além disso ainda possui ativos que auxiliam a tardar o envelhecimento da pele ao redor dos olhos.",
+      "sold": 21,
+      "stock": 0
+    },
+    {
+      "id": 13,
+      "title": "Base Fluida Vult",
+      "price": "R$ 26,00",
+      "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332531-1000-1000/base-fluida-vult.jpg?v=636910423619400000",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332531-1000-1000/base-fluida-vult.jpg?v=636910423619400000",
+          "selected": true
+        },
+        {
+          "id": 2,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332532-1000-1000/base-fluida-vult1.jpg?v=636910423719770000"
+        },
+        {
+          "id": 3,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332533-1000-1000/base-fluida-vult2.jpg?v=636910423821030000"
+        },
+        {
+          "id": 4,
+          "url": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332534-1000-1000/base-fluida-vult3.jpg?v=636910424148800000"
+        }
+      ],
+      "platform": 1,
+      "shortDescription": "Fórmula ultrafluida que em contato com a pele oferece uma incrível sensação de leveza e toque aveludado. A da Base Fluida da Vult proporciona um acabamento natural, cobertura leve, uniforme e efeito matte. Contém microesferas que proporcionam o disfarce óptico de linhas finas da pele. Enriquecida com um complexo de extratos naturais, auxilia na prevenção do envelhecimento e na hidratação da pele. Sua embalagem com aplicador em conta-gotas oferece praticidade e precisão, sem desperdícios.",
+      "sold": 46,
+      "stock": 0
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "title": "Ultimos lançamentos!!!",
+      "products": [
+        {
+          "id": 1,
+          "title": "Kaiak Natura - Masculino",
+          "price": "R$ 121,90",
+          "thumb": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_1.jpg?itok=fdC-QoCq",
+          "platform": 2
+        },
+        {
+          "id": 13,
+          "title": "Base Fluida Vult",
+          "price": "R$ 26,00",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332531-1000-1000/base-fluida-vult.jpg?v=636910423619400000",
+          "platform": 2
+        },
+        {
+          "id": 10,
+          "title": "Corretivo para área dos Olhos Maybelline",
+          "price": "R$ 63,92",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353061-1000-1000/Golden.jpg?v=637027618396170000",
+          "platform": 1
+        },
+        {
+          "id": 8,
+          "title": "Wanted Girl Azzaro - Perfume Feminino",
+          "price": "R$ 278,90",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348134-1000-1000/3791.jpg?v=637001965252630000",
+          "platform": 2
+        },
+        {
+          "id": 3,
+          "title": "Pó Compacto Vult",
+          "price": "R$ 19,67",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/207798-1000-1000/po-compacto-mosaico-vult-po-compacto-05.jpg?v=636003959135430000",
+          "platform": 2
+        },
+        {
+          "id": 5,
+          "title": "Batom Líquido Maybelline",
+          "price": "R$ 67,07",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/319224-1000-1000/dreamer3.jpg?v=636839502750330000",
+          "platform": 2
+        },
+        {
+          "id": 13,
+          "title": "Base Fluida Vult",
+          "price": "R$ 26,00",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332531-1000-1000/base-fluida-vult.jpg?v=636910423619400000",
+          "platform": 1
+        },
+        {
+          "id": 5,
+          "title": "Batom Líquido Maybelline",
+          "price": "R$ 67,07",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/319224-1000-1000/dreamer3.jpg?v=636839502750330000",
+          "platform": 1
+        },
+        {
+          "id": 4,
+          "title": "Ilía Natura - Feminino",
+          "price": "R$ 129,90",
+          "thumb": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/54522_1.jpg?itok=cRg0GvCV",
+          "platform": 1
+        },
+        {
+          "id": 8,
+          "title": "Wanted Girl Azzaro - Perfume Feminino",
+          "price": "R$ 278,90",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348134-1000-1000/3791.jpg?v=637001965252630000",
+          "platform": 2
+        },
+        {
+          "id": 5,
+          "title": "Batom Líquido Maybelline",
+          "price": "R$ 67,07",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/319224-1000-1000/dreamer3.jpg?v=636839502750330000",
+          "platform": 1
+        },
+        {
+          "id": 10,
+          "title": "Corretivo para área dos Olhos Maybelline",
+          "price": "R$ 63,92",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353061-1000-1000/Golden.jpg?v=637027618396170000",
+          "platform": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Os mais comprados...",
+      "products": [
+        {
+          "id": 1,
+          "title": "Kaiak Natura - Masculino",
+          "price": "R$ 121,90",
+          "thumb": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_1.jpg?itok=fdC-QoCq",
+          "platform": 2
+        },
+        {
+          "id": 10,
+          "title": "Corretivo para área dos Olhos Maybelline",
+          "price": "R$ 63,92",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353061-1000-1000/Golden.jpg?v=637027618396170000",
+          "platform": 1
+        },
+        {
+          "id": 5,
+          "title": "Batom Líquido Maybelline",
+          "price": "R$ 67,07",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/319224-1000-1000/dreamer3.jpg?v=636839502750330000",
+          "platform": 2
+        },
+        {
+          "id": 2,
+          "title": "Hugo Boss - Perfume Masculino ",
+          "price": "R$ 269,00",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/335701-1000-1000/hugo-edt-hugo-boss-40ml.jpg?v=636930253507400000",
+          "platform": 2
+        },
+        {
+          "id": 3,
+          "title": "Pó compacto Vult",
+          "price": "R$ 19,67",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/207798-1000-1000/po-compacto-mosaico-vult-po-compacto-05.jpg?v=636003959135430000",
+          "platform": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Os perfumes mais vendidos",
+      "products": [
+        {
+          "id": 2,
+          "title": "Hugo Boss - Perfume Masculino",
+          "price": "R$ 269,00",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/335701-1000-1000/hugo-edt-hugo-boss-40ml.jpg?v=636930253507400000",
+          "platform": 2
+        },
+        {
+          "id": 1,
+          "title": "Kaiak Natura - Masculino",
+          "price": "R$ 121,90",
+          "thumb": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/22560_1.jpg?itok=fdC-QoCq",
+          "platform": 2
+        },
+        {
+          "id": 4,
+          "title": "Ilía Natura - Feminino",
+          "price": "R$ 129,90",
+          "thumb": "https://static.natura.com/sites/default/files/styles/product_detail_square/public/products/54522_1.jpg?itok=cRg0GvCV",
+          "platform": 1
+        },
+        {
+          "id": 8,
+          "title": "Wanted Girl Azzaro - Perfume Feminino",
+          "price": "R$ 278,90",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/348134-1000-1000/3791.jpg?v=637001965252630000",
+          "platform": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "As maquiagens mais vendidas...",
+      "products": [
+        {
+          "id": 13,
+          "title": "Base Fluida Vult",
+          "price": "R$ 26,00",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/332531-1000-1000/base-fluida-vult.jpg?v=636910423619400000",
+          "platform": 2
+        },
+        {
+          "id": 10,
+          "title": "Corretivo para área dos Olhos Maybelline",
+          "price": "R$ 63,92",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/353061-1000-1000/Golden.jpg?v=637027618396170000",
+          "platform": 2
+        },
+        {
+          "id": 3,
+          "title": "Pó Compacto Vult",
+          "price": "R$ 19,67",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/207798-1000-1000/po-compacto-mosaico-vult-po-compacto-05.jpg?v=636003959135430000",
+          "platform": 1
+        },
+        {
+          "id": 5,
+          "title": "Batom Líquido Maybelline",
+          "price": "R$ 67,07",
+          "thumb": "https://epocacosmeticos.vteximg.com.br/arquivos/ids/319224-1000-1000/dreamer3.jpg?v=636839502750330000",
+          "platform": 2
+        }
+      ]
+    }
+  ]
+}

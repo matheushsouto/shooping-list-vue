@@ -1,0 +1,15 @@
+main {
+  .justifyCenter {
+    justify-content: center;
+  }
+  section {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    margin-top: 30px;
+  }
+
+ 
+}

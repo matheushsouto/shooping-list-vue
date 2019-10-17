@@ -1,0 +1,13 @@
+#app {
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smotthing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale;
+  outline: 0;
+  background: #fafafa;
+  font-family: "Montserrat", sans-serif;
+  color: #333;
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}
