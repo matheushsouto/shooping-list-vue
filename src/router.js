@@ -9,7 +9,7 @@ export default new Router({
   base: process.env.BASE_URL,
   routes: [
     {
-      path: "/",
+      path: "/home",
       name: "home",
       component: Main
     },
@@ -24,6 +24,17 @@ export default new Router({
       name: "cattegorie",
       props: true,
       component: () => import("./pages/Cattegorie")
+    },
+    {
+      path: "/",
+      name: "login",
+      component: () => import("./pages/Login")
+    },
+    {
+      path: "/signup",
+      name: "signup",
+      component: () => import("./pages/SignUp")
     }
+
   ]
 });

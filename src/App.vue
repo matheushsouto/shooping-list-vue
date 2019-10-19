@@ -12,9 +12,7 @@
 <script>
 import NavBar from "./components/Navegacao/";
 import Footer from "./components/Rodape/";
-
 import api from "./api";
-
 export default {
   components: {
     NavBar,
@@ -22,7 +20,6 @@ export default {
   },
   async created() {
     const { data } = await api.get("/cart");
-
     this.$store.commit("ADD_CART", data);
   }
 };
